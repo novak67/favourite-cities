@@ -16,6 +16,7 @@
 		75D22AFF23C8DB2600B8B4AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75D22AFD23C8DB2600B8B4AE /* LaunchScreen.storyboard */; };
 		75D22B0A23C8DB2600B8B4AE /* favourite_citiesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D22B0923C8DB2600B8B4AE /* favourite_citiesTests.swift */; };
 		75D22B1523C8DB2600B8B4AE /* favourite_citiesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D22B1423C8DB2600B8B4AE /* favourite_citiesUITests.swift */; };
+		75D22B2323C8DF4000B8B4AE /* city.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D22B2223C8DF4000B8B4AE /* city.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		75D22B1023C8DB2600B8B4AE /* favourite citiesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "favourite citiesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		75D22B1423C8DB2600B8B4AE /* favourite_citiesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favourite_citiesUITests.swift; sourceTree = "<group>"; };
 		75D22B1623C8DB2600B8B4AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75D22B2223C8DF4000B8B4AE /* city.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = city.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				75D22AF223C8DB2500B8B4AE /* SceneDelegate.swift */,
 				75D22AF423C8DB2500B8B4AE /* MasterViewController.swift */,
 				75D22AF623C8DB2500B8B4AE /* DetailViewController.swift */,
+				75D22B2223C8DF4000B8B4AE /* city.swift */,
 				75D22AF823C8DB2500B8B4AE /* Main.storyboard */,
 				75D22AFB23C8DB2600B8B4AE /* Assets.xcassets */,
 				75D22AFD23C8DB2600B8B4AE /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				75D22AF123C8DB2500B8B4AE /* AppDelegate.swift in Sources */,
 				75D22AF323C8DB2500B8B4AE /* SceneDelegate.swift in Sources */,
+				75D22B2323C8DF4000B8B4AE /* city.swift in Sources */,
 				75D22AF523C8DB2500B8B4AE /* MasterViewController.swift in Sources */,
 				75D22AF723C8DB2500B8B4AE /* DetailViewController.swift in Sources */,
 			);
